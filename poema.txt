@@ -1,4 +1,4 @@
-O arcoiris e o unicornio
+O arcoiris e o unicornio e ponies
 
 roxo
 rosa
@@ -10,4 +10,5 @@ unicornio
 amarelo
 vermelho
 esses são as cores do arcoiris.
-e o unicornio
+e o unicornio.
+pony
