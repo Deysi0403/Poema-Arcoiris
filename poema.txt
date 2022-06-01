@@ -1,9 +1,9 @@
 O arcoiris
 
-
 roxo
 rosa
 laranja
 azul
+verde
 vermelho
 esses são as cores do arcoiris.
