@@ -5,6 +5,7 @@ rosa
 laranja
 azul
 verde
+indigo
 unicornio
 amarelo
 vermelho
